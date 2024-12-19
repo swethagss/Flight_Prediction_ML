@@ -86,6 +86,8 @@ The models were assessed using the following metrics:
 
 The **Random Forest Regressor** was found to be the best-performing model based on these evaluation metrics.
 
+<img width="683" alt="Screenshot 2024-12-19 at 11 54 20 AM" src="https://github.com/user-attachments/assets/641ba7bc-9ff9-48d0-8f5e-1a81a5228d49" />
+
 ### 🔍 Insights
 
 - Non-linear models like **Random Forest** and **XGBoost** significantly outperformed linear models such as **Ridge** and **Lasso Regression**.
@@ -104,6 +106,8 @@ One key advantage of the **Random Forest** model is its ability to highlight the
 ### 🚀 Deployment
 
 Deploy the model using a Streamlit app (app.py). The app allows users to input flight price prediction data and get price predictions.
+
+https://github.com/user-attachments/assets/f21cf678-d383-4106-ab67-e054a2221655
 
 ### 📝 Conclusion
 
